@@ -14,18 +14,6 @@ function Navbar() {
   const phoneNumber = '+37064134102'
 
   useEffect(() => {
-    // const updateCottageState = () => {
-    //   const cottageSection = document.getElementById('cottage')
-    //   if (!cottageSection) {
-    //     setIsCottageActive(false)
-    //     return
-    //   }
-
-    //   const rect = cottageSection.getBoundingClientRect()
-    //   const triggerLine = window.innerHeight * 0.28
-    //   const isActive = rect.top <= triggerLine && rect.bottom >= 90
-    //   setIsCottageActive(isActive)
-    // }
     const updateCottageState = () => {
       const section = document.getElementById('cottage')
       if (!section) return
