@@ -104,7 +104,7 @@ function CottageSection() {
               <LightboxImage
                 src={sodyba1}
                 alt="Stovyklavietė"
-                className="photo-hover z-10 w-11/12 xl:w-[110%] max-w-none xl:mr-10"
+                className="photo-hover z-10 w-11/12 max-w-none xl:w-full xl:min-w-[110%] xl:shrink-0 xl:mr-10"
               />
             </div>
           </div>
@@ -121,8 +121,8 @@ function CottageSection() {
               />
               <LightboxImage
                 src={kubilas}
-                alt="Kubilas"
-                className="photo-hover z-10 mx-auto w-11/12 xl:w-[120%] max-w-none"
+                alt="Pirtis ir kubilas"
+                className="photo-hover z-10 w-11/12 max-w-none xl:w-full xl:min-w-[110%] xl:shrink-0 xl:mr-10"
               />
             </div>
           </div>
@@ -168,12 +168,12 @@ function CottageSection() {
             <div className="relative flex w-full justify-center">
               <span
                 aria-hidden="true"
-                className="hidden xl:flex absolute inset-0 z-0 translate-x-20 -translate-y-5 bg-primary-green/30"
+                className="hidden xl:flex absolute inset-0 z-0 translate-x-10 -translate-y-5 bg-primary-green/30"
               />
               <LightboxImage
                 src={tvenkinys1}
                 alt="Tvenkinys"
-                className="photo-hover z-10 mx-auto w-11/12 xl:w-[120%] max-w-none"
+                className="photo-hover z-10 w-11/12 max-w-none xl:w-full xl:min-w-[110%] xl:shrink-0 xl:mr-10"
               />
             </div>
           </div>
@@ -191,7 +191,7 @@ function CottageSection() {
               <LightboxImage
                 src={tinklinis}
                 alt="Tinklinio aikštelė"
-                className="photo-hover z-10 mx-auto w-11/12 xl:w-[120%] max-w-none"
+                className="photo-hover z-10 w-11/12 max-w-none xl:w-full xl:min-w-[110%] xl:shrink-0 xl:mr-10"
               />
             </div>
           </div>
