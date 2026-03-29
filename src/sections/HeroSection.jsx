@@ -36,7 +36,7 @@ function HeroSection() {
           <div className="mt-24 flex flex-wrap">
             <a
               href="#price"
-              className="rounded-full border bg-yellow px-6 py-3 text-sm font-semibold text-text-main transition hover:border-yellow hover:bg-text-main hover:text-background"
+              className="rounded-full border-2 bg-yellow px-6 py-3 text-sm font-semibold text-text-main transition hover:border-yellow hover:bg-text-main hover:text-background"
             >
               Sužinokite daugiau
             </a>
