@@ -74,18 +74,21 @@ function KayaksSection() {
       />
 
       <div className="relative z-10 mx-auto flex flex-col gap-6 md:mb-30 md:pb-60 xl:mt-40 xl:flex-row">
-        <div className="w-12/12 bg-secondary-blue/20 p-10 rounded-2xl">
-          <div className="relative z-10">
-            <h1 className="relative mx-auto inline-block pb-2 mb-5 text-3xl md:text-4xl font-semibold text-text-main after:absolute after:bottom-1.5 after:left-14 after:h-[2px] after:w-[calc(80%-1.5rem)] after:-translate-x-1/2 after:bg-primary-blue">
+        <div className='flex-row w-12/12'>
+          <div className="relative z-10 text-center">
+            <h1 className="relative mx-auto inline-block pb-2 mb-5 text-3xl md:text-6xl font-semibold text-text-main after:absolute after:bottom-1.5 md:after:left-33 after:left-18 xl:after:left-25 after:h-[2px] after:w-[calc(80%-1.5rem)] after:-translate-x-1/2 after:bg-primary-blue">
               Baidarės
             </h1>
           </div>
-          <div className="lg:text-2xl lg:font-light lg:pr-10">
-            <p>Leiskitės į nepamirštamą kelionę Verknės upės vingiais su mūsų patogiomis ir stabiliomis baidarėmis. Maršrutai puikiai tinka tiek pradedantiesiems, tiek ieškantiems šiek tiek daugiau nuotykių – jūsų laukia įspūdingi gamtos vaizdai, ramūs vandens ruožai ir smagūs iššūkiai. </p>
-            <br />
-            <p>Pasirūpinsime viskuo, ko reikia sklandžiai išvykai: suteiksime baidares, irklus, gelbėjimosi liemenes bei padėsime su logistika. Jums tereikia atsipalaiduoti, mėgautis gamta ir gera kompanija.</p>
-            <br />
-            <p>Tai puikus būdas pabėgti nuo kasdienybės, praleisti laiką su draugais ar šeima ir susikurti prisiminimus, kurie išliks ilgam.</p>
+          <div className="w-12/12 bg-secondary-blue/20 p-10 rounded-2xl">
+
+            <div className="lg:text-2xl lg:font-light lg:pr-10">
+              <p>Leiskitės į nepamirštamą kelionę Verknės upės vingiais su mūsų patogiomis ir stabiliomis baidarėmis. Maršrutai puikiai tinka tiek pradedantiesiems, tiek ieškantiems šiek tiek daugiau nuotykių – jūsų laukia įspūdingi gamtos vaizdai, ramūs vandens ruožai ir smagūs iššūkiai. </p>
+              <br />
+              <p>Pasirūpinsime viskuo, ko reikia sklandžiai išvykai: suteiksime baidares, irklus, gelbėjimosi liemenes bei padėsime su logistika. Jums tereikia atsipalaiduoti, mėgautis gamta ir gera kompanija.</p>
+              <br />
+              <p>Tai puikus būdas pabėgti nuo kasdienybės, praleisti laiką su draugais ar šeima ir susikurti prisiminimus, kurie išliks ilgam.</p>
+            </div>
           </div>
         </div>
 
