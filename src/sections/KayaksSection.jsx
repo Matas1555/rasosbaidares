@@ -83,7 +83,7 @@ function KayaksSection() {
           <div className="w-12/12 bg-secondary-blue/20 p-10 rounded-2xl">
 
             <div className="lg:text-2xl lg:font-light lg:pr-10">
-              <p>Leiskitės į nepamirštamą kelionę Verknės upės vingiais su mūsų patogiomis ir stabiliomis baidarėmis. Maršrutai puikiai tinka tiek pradedantiesiems, tiek ieškantiems šiek tiek daugiau nuotykių – jūsų laukia įspūdingi gamtos vaizdai, ramūs vandens ruožai ir smagūs iššūkiai. </p>
+              <p>Leiskitės į nepamirštamą kelionę nuostabiais Verknės upės vingiais. Maršrutai puikiai tinka tiek pradedantiesiems, tiek ieškantiems šiek tiek daugiau nuotykių.</p>
               <br />
               <p>Pasirūpinsime viskuo, ko reikia sklandžiai išvykai: suteiksime baidares, irklus, gelbėjimosi liemenes bei padėsime su logistika. Jums tereikia atsipalaiduoti, mėgautis gamta ir gera kompanija.</p>
               <br />
